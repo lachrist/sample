@@ -1,2 +1,4 @@
-# sample
-Sample git repository
+# Sample git repository
+
+```sh
+```
